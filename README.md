@@ -13,3 +13,4 @@ cd fonts
 1. Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) to change the default's terminal layout.
 2. Drop the  [cobalt2.zsh-theme](https://github.com/wesbos/Cobalt2-iterm) file in to the `~/.oh-my-zsh/themes/` directory.
 3. Set `ZSH_THEME="cobalt2"` in `.zshrc` file in user's default folder.
+4. Install [ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) for terminal. 
